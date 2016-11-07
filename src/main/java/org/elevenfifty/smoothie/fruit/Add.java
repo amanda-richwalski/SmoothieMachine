@@ -1,4 +1,4 @@
-package org.elevenfifty.smoothie.Main;
+package org.elevenfifty.smoothie.fruit;
 
 public interface Add {
 	

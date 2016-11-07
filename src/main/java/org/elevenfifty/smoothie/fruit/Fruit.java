@@ -1,7 +1,9 @@
-package org.elevenfifty.smoothie.Main;
+package org.elevenfifty.smoothie.fruit;
+
+import org.elevenfifty.smoothie.Ingredient;
 
 
-public class Fruit implements Ingredients{
+public class Fruit implements Ingredient{
 	
 	private String color;
 	private String origin;

@@ -1,9 +1,9 @@
-package org.elevenfifty.smoothie.Main;
+package org.elevenfifty.smoothie.fruit;
 
-public class Orange extends Fruit implements Peel, Cut, Add {
-
-	public Orange() {
-		super("Orange");
+public class Banana extends Fruit implements Peel, Cut, Add {
+	
+	public Banana() {
+		super("Banana");
 	}
 
 	@Override
@@ -40,4 +40,3 @@ public class Orange extends Fruit implements Peel, Cut, Add {
 	}
 	
 	}
-
